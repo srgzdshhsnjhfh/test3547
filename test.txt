@@ -1,1 +1,2 @@
 New file to test 
+new line from notepad
